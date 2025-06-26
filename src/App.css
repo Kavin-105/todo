@@ -167,7 +167,7 @@ body::before {
 
 /* Typography Enhancements */
 .auth-container h2, .dashboard-header h2 {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #141518 0%, #0f041b 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -564,12 +564,12 @@ button:focus-visible, input:focus-visible {
   font-weight: 600;
   font-size: 1.1rem;
   margin-bottom: 1rem;
-  color: #667eea;
+  color: #0d0e0f;
 }
 .calendar-header button {
   background: none;
   border: none;
-  color: #667eea;
+  color: #0d0d0e;
   font-size: 1.3rem;
   cursor: pointer;
   padding: 0.2rem 0.7rem;
