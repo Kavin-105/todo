@@ -377,7 +377,7 @@ body::before {
 .task-text {
   font-size: 1.2rem;
   font-weight: 600;
-  color: #333;
+  color: #180202;
   margin-bottom: 0.5rem;
 }
 
@@ -495,7 +495,7 @@ body::before {
 /* Dark Mode Support */
 @media (prefers-color-scheme: dark) {
   .task-text {
-    color: #fff;
+    color: #1e1717;
   }
   
   .auth-container input, .add-task-form input {
